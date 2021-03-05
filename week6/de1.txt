@@ -1,0 +1,11 @@
+
+
+In this assignment, you are a Data Analyst working at a Real Estate Investment Trust. The Trust will like to start investing in Residential real estate. You are tasked with determining the market price of a house given a set of features. You will analyze and predict housing prices using attributes or features such as square footage, number of bedrooms, number of floors, and so on.
+
+
+
+				https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/caadbaa6-3401-43bf-9430-1ad28c92c452/view?access_token=d43fc6d81534e03be7c87e79d0ad38b71dd9cdd6d1d8a2788247b9d128928ef1
+
+				https://drive.google.com/file/d/1uhkm3JhSnlmNa4wJgCY3WmJCb7w6ax7e/view?usp=sharing
+
+
